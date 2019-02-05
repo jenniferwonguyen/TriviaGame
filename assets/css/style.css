@@ -1,0 +1,32 @@
+    body
+    {
+        text-align: center;
+    }
+    .logo
+    {
+        align-content: center;
+        height: 400px;
+        width:70%
+    }
+    #game {
+        display: inline-block;
+        align-content: center;
+    }
+    .result {
+        width: 60%;
+    }
+    .custom-jumbo {
+        text-align: center;
+        width: 70%;
+        margin: auto;
+    }
+    .custom-button {
+        display: inline-block !important;
+    }
+    .last-seconds
+    {
+      color: red;
+    }
+    .option{
+      margin: 15px;
+    }
